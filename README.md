@@ -16,55 +16,22 @@ Dependencies: NumPy.
 
 ### Varying octaves
 
-<div style="display:flex; justify-content:center; align-items:center;">
-  <figure>
-    <img src="figures/oct1.png" alt="Image 1">
-    <figcaption style="text-align:center;">octaves=1</figcaption>
-  </figure>
-  <figure>
-    <img src="figures/oct2.png" alt="Image 2">
-    <figcaption style="text-align:center;">octavas=2</figcaption>
-  </figure>
-  <figure>
-    <img src="figures/oct3.png" alt="Image 3">
-    <figcaption style="text-align:center;">octavas=3</figcaption>
-  </figure>
-</div>
-
+| octaves=1             | octaves=2             | octaves=3             |
+| --------------------- | --------------------- | --------------------- |
+| ![](figures/oct1.png) | ![](figures/oct2.png) | ![](figures/oct3.png) |
 
 ### Varying frequency
 
-<div style="display:flex; justify-content:center; align-items:center;">
-  <figure>
-    <img src="figures/freq1.png" alt="Image 1">
-    <figcaption style="text-align:center;">frequency=1</figcaption>
-  </figure>
-  <figure>
-    <img src="figures/freq2.png" alt="Image 2">
-    <figcaption style="text-align:center;">frequency=2</figcaption>
-  </figure>
-  <figure>
-    <img src="figures/freq3.png" alt="Image 3">
-    <figcaption style="text-align:center;">frequency=3</figcaption>
-  </figure>
-</div>
+| frequency=1            | frequency=2            | frequency=3            |
+| ---------------------- | ---------------------- | ---------------------- |
+| ![](figures/freq1.png) | ![](figures/freq2.png) | ![](figures/freq3.png) |
 
 ### Varying persistence
 
-<div style="display:flex; justify-content:center; align-items:center;">
-  <figure>
-    <img src="figures/pres_0_25.png" alt="Image 1">
-    <figcaption style="text-align:center;">persistence=0.25</figcaption>
-  </figure>
-  <figure>
-    <img src="figures/pres_0_50.png" alt="Image 2">
-    <figcaption style="text-align:center;">persistence=0.50</figcaption>
-  </figure>
-  <figure>
-    <img src="figures/pres_0_75.png" alt="Image 3">
-    <figcaption style="text-align:center;">persistence=0.75</figcaption>
-  </figure>
-</div>
+| persistence=0.25           | persistence=0.50           | persistence=0.75           |
+| -------------------------- | -------------------------- | -------------------------- |
+| ![](figures/pres_0_25.png) | ![](figures/pres_0_50.png) | ![](figures/pres_0_75.png) |
+
 
 ## BibTeX
 
